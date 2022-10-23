@@ -19,7 +19,7 @@ body {
   border-radius: 10px;
   background-color: aqua;
 }
-.screen > p {
+.screen > input {
   display: flex;
   justify-content: end;
   align-items: center;
